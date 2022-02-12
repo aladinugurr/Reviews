@@ -1,2 +1,2 @@
 # Reviews
-reviews-ugurcatal.netlify.app
+http://reviews-ugurcatal.netlify.app
