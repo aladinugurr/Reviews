@@ -1,0 +1,77 @@
+body{
+    font-family: 'PT Sans', sans-serif;
+  text-align: center;
+  background: rgb(223, 233, 236);
+  font-size: 20px;
+}
+h1{
+     margin-top: 10%;
+}
+.card{
+    background-color: #fff;
+    width:  800px;
+  margin-left: 30%;
+  height: auto;
+  padding: 1.2rem;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px 10px rgb(125, 133, 136);
+  display: block;
+  position: absolute;
+  max-width: 1080px;
+}
+.job{
+    color: rgb(27, 100, 168);
+}
+#image{
+    width: 200px;
+    border-radius: 20px;
+    height: auto;
+  
+}
+.button{
+  padding: 0;
+
+}
+.surpriseme__button{
+    border-radius: 5px;
+    border:  solid rgb(11, 94, 133);
+    cursor: pointer;
+    margin-top: 10px;
+    color: rgb(37, 154, 184);
+    margin-left: 20px;
+  
+}
+.surpriseme__button:hover{
+  border:  solid rgb(9, 76, 105);
+  box-shadow: 0px 0px 5px 5px rgb(134, 205, 241);
+  color:black;
+  background-color: rgb(102, 185, 218);
+  
+}
+#button__right{
+ 
+  outline: none;
+  border:none;
+  cursor: pointer;
+  background-color: #fff;
+  color: rgb(54, 119, 192);
+
+}
+#button__left{
+  outline: none;
+  border:none;
+  cursor: pointer;
+  width: 40px;
+  background-color: #fff;
+  color: rgb(54, 119, 192);
+}
+
+#button__right:hover {
+  color: rgb(20, 71, 129);
+ 
+
+}
+#button__left:hover {
+  color: rgb(20, 71, 129);
+
+}
