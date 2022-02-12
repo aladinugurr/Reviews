@@ -95,4 +95,3 @@ surprisemeBtn.addEventListener('click',function(){
 job.innerHTML = persons[initialValue].job;
 text.innerHTML = persons[initialValue].text;  
 })
-console.log(randomNumber)
